@@ -1,0 +1,22 @@
+.contadorC {
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+button {
+    background-color: #1014c5;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.pContenedor {
+    font-size: 18px;
+    display: inline-block;
+      
+    margin: 0 10px;  }
